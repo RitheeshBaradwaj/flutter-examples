@@ -1,2 +1,2 @@
 # flutter-examples
-This repository is created as a part of my learning. Source: LinkedIn Learning
+I created this repository as a part of my learning journey, sourced from LinkedIn Learning.
